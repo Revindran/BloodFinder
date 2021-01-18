@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1014262308917",
+    "project_id": "bloodfinder-4c653",
+    "storage_bucket": "bloodfinder-4c653.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014262308917:android:0e19625329e26130ccd17c",
+        "android_client_info": {
+          "package_name": "com.raveendran.blood_finder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014262308917-8ef0qpqruunijcb6e5pul2cvfrsnbjpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRLuJNrOAK3JuNcaZ4YGJf_TnJQ2ECR64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014262308917-8ef0qpqruunijcb6e5pul2cvfrsnbjpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
